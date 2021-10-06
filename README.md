@@ -8,3 +8,6 @@ Dilarang PULL REQUEST hal yang berbau SARA, Pornografi, Politik, Badwords, dan l
 Tools ini bisa berfungsi untuk developer yang ingin menguji email di webnya terima kasih :D 
 
 Apa bila kalian menemukan kesalah pada program saya DIBENERIN PLISS, JANGAN DIDIEMIN OKE Terima Kasih .
+
+mohon untuk yang ingin ikut serta tuliskan username kalian dibawah ini : 
+# 1.nardussinurat | Dev1
