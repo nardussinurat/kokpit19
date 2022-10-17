@@ -1,5 +1,7 @@
 # kokpit19
-DAMN kembali lagi ke hacktoberfest 2021, ini dia lagi! halo teman-teman kamu hanya perlu PR
+
+Selamat datang #hacktoberfest2022
+DAMN kembali lagi ke hacktoberfest, ini dia lagi! halo teman-teman kamu hanya perlu PR
 
 Repository ini bertujuan untuk ikut meramaikan kegiatan Hacktoberfest di web (https://hacktoberfest.digitalocean.com/)
 lakukan PULL REQUEST sesuka hati anda untuk memenuhi kemajuan dari Hacktoberfest.
